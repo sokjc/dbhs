@@ -1,2 +1,3 @@
-# dbhs
-Demo Distributed Bayesian Hyperparameter Search Optimization with Paperspace SDK 
+# Distributed Bayesian Hyperparameter Search (DBHS)
+## A Demo with Paperspace's SDK & Weight & Biases
+
